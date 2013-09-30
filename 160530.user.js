@@ -15,9 +15,9 @@
 0.21	-	Added low quality
 0.22	-	Added hard subs
 1.00	-	Added second row of buttons specific to screen issues
-		-	Updated to work with new report form
+	-	Updated to work with new report form
 1.01	- 	Added GP eval button
-1.1     -   Improved box style; added more report types
+1.1	-	Improved box style; added more report types
 --------------------------------------------------------*/
 
 // Create a new div to put the links in and append it to the content div
